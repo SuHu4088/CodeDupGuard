@@ -34,8 +34,8 @@
 ---
 
 ## 🖥️ 界面截图
-![GUI 界面示例](https://via.placeholder.com/800x500.png?text=GUI+Preview+Here)  
-*（实际使用时请替换为项目截图）*
+![GUI 界面示例](https://via.placeholder.com/800x500.png?text=GUI+Preview+Here](https://github.com/SuHu4088/CodeDupGuard/blob/main/Snipaste_2025-03-20_01-55-50.png)  
+
 
 ---
 
